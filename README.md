@@ -22,7 +22,7 @@ TBF
 TBF
 
 **Social Media Presence**
-[!](https://github.com/anandsafi/anandsafi/blob/main/twitter%20icon.jpg) [Twitter - Anand Safi](https://twitter.com/anandsafi)
+[!Twitter Icon](https://github.com/anandsafi/anandsafi/blob/main/twitter%20icon.jpg "Twitter Icon") [Twitter - Anand Safi](https://twitter.com/anandsafi)
 [!](https://github.com/anandsafi/anandsafi/blob/main/linkedin%20icon.jpg)[LinkedIn - Anand Safi](https://www.linkedin.com/in/anandsafi/)
 [!](https://github.com/anandsafi/anandsafi/blob/main/medium%20icon.jpg)[Medium - Anand Safi](https://anandsafi.medium.com)
 
