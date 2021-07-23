@@ -1,7 +1,7 @@
-[!Header](https://github.com/anandsafi/anandsafi/blob/main/Anand%20Photo.jpg)
+![Header](https://github.com/anandsafi/anandsafi/blob/main/Anand%20Photo.jpg "Header")
 
 ### Hey all! 👋
-I am **Anand Safi**,currently an **Engineering Manager** for [!Mark43](https://www.mark43.com) - a public safety software company. Over the past decade, I have progressed from starting as an aspiring engineer(SDET) to becoming an engineering leader. I also am a Startup Advisor, Volunteer Board Member and an established mentor outside of my role. 
+I am **Anand Safi**,currently an **Engineering Manager** for [Mark43](https://www.mark43.com) - a public safety software company. Over the past decade, I have progressed from starting as an aspiring engineer(SDET) to becoming an **Engineering Leader**. I also am a **Startup Advisor**, **Board Member** for Non-profits and an established **Mentor & Coach** outside of my role. 
 
 **Interviews** 🎤
 TBF
@@ -22,19 +22,10 @@ TBF
 TBF
 
 **Social Media Presence**
-You can find me on [!Twitter][1.2]][1],[!LinkedIn][2.2]][2] or [!Medium][3.2]][3].
+[!](https://github.com/anandsafi/anandsafi/blob/main/twitter%20icon.jpg) [Twitter - Anand Safi](https://twitter.com/anandsafi)
+[!](https://github.com/anandsafi/anandsafi/blob/main/linkedin%20icon.jpg)[LinkedIn - Anand Safi](https://www.linkedin.com/in/anandsafi/)
+[!](https://github.com/anandsafi/anandsafi/blob/main/medium%20icon.jpg)[Medium - Anand Safi](https://anandsafi.medium.com)
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://i.imgur.com/Vahbdkj.png (LinkedIn icon without padding)
-[3.2]: https://image.flaticon.com/icons/png/512/2111/2111505.png (Medium icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/anandsafi
-[2]: https://www.linkedin.com/in/anandsafi/
-[3]: https://anandsafi.medium.com
 <!--
 **anandsafi/anandsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
