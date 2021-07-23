@@ -22,9 +22,9 @@ TBF
 TBF
 
 **Social Media Presence**
-<img src="https://github.com/anandsafi/anandsafi/blob/main/twitter%20icon.jpg" width="10px"> [Twitter - Anand Safi](https://twitter.com/anandsafi)
-[!](https://github.com/anandsafi/anandsafi/blob/main/linkedin%20icon.jpg)[LinkedIn - Anand Safi](https://www.linkedin.com/in/anandsafi/)
-[!](https://github.com/anandsafi/anandsafi/blob/main/medium%20icon.jpg)[Medium - Anand Safi](https://anandsafi.medium.com)
+<img src="https://github.com/anandsafi/anandsafi/blob/main/twitter%20icon.png" width="10px"> [Twitter - Anand Safi](https://twitter.com/anandsafi)<br>
+<img src="https://github.com/anandsafi/anandsafi/blob/main/linkedin%20icon.jpeg" width="10px">[LinkedIn - Anand Safi](https://www.linkedin.com/in/anandsafi/)<br>
+<img src="https://github.com/anandsafi/anandsafi/blob/main/medium%20icon.png" width="10px">[Medium - Anand Safi](https://anandsafi.medium.com)<br>
 
 <!--
 **anandsafi/anandsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
