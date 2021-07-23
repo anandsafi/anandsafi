@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header]](https://media-exp1.licdn.com/dms/image/D4E35AQGkXtQr03p4rQ/profile-framedphoto-shrink_400_400/0/1625022311056?e=1627160400&v=beta&t=EhA4UoYNneiNxihhM0WBPN8jmuAFE8cdpqzUVqSUX9E)
+[![Header](https://github.com/anandsafi/anandsafi/blob/main/Anand%20Photo.jpg "Header")
+
+
 
 
