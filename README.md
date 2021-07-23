@@ -3,8 +3,22 @@
 ### Hey all! 👋
 I am **Anand Safi**,currently an **Engineering Manager** for [Mark43](https://www.mark43.com) - a public safety software company. Over the past decade, I have progressed from starting as an aspiring engineer(SDET) to becoming an **Engineering Leader**. I also am a **Startup Advisor**, **Board Member** for Non-profits and an established **Mentor & Coach** outside of my role. 
 
-**Interviews** 🎤
-TBF
+**Published Interviews** 🎤 <br>
+
+_DevToManager Publication_ <br>
+https://devtomanager.com/interviews/anand-safi/
+
+_ExposeNews Media House - Fireside chat_ <br>
+https://www.exposenews.ca/fireside-chat-with-anand-safi-engineering-manager-at-mark43/
+
+_CareerFair Publication_ <br>
+https://www.careerfair.io/reviews/anand-safi-engineering-manager
+
+_DevToManager - Interview with Anand Safi_ <br>
+https://devtomanager.com/interviews/anand-safi/
+
+_Plato QnA Session - Dealing with Executive Presence_ <br>
+https://www.youtube.com/watch?v=d6T2WI0PX1A
 
 **Podcast Appearances** 🎙️
 TBF
