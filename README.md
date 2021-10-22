@@ -17,16 +17,17 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 
 1. *Engineering Manager* at [Mark43](https://www.mark43.com)<br>
 2. *Mentor - Top 1%* at [MentorCruise](https://mentorcruise.com/mentor/AnandSafi/)<br>
-3. *Executive Coach - Engineering Leadership* at [BestPracticer](https://www.bestpracticer.com)<br>
-4. *Mentor - Engineering Leadership* at [PlatoHQ](https://www.platohq.com/mentors/anand-safi-668121411)<br>
-5. *Mentor* at [Mentoring Club](https://www.mentoring-club.com/the-mentors/anand-safi)<br>
-6. *Advisor* at [Nestted](https://www.nestted.com/)<br>
-7. *Advisor* at [Stay22](https://www.stay22.com)<br>
-8. *Advisor* at [Sukhi](https://www.thesukhiproject.com)<br>
-9. *Board Member* at [Dansii](https://www.instagram.com/dansii.inc)<br>
-10. *Adisory Board Member* at [Waterlution](https://www.waterlution.org)<br>
-11. *Advisory Council Member* at [Harvard Business Review](https://www.hbr.org)<br>
-12. *Executive Member* at [Leaders Excellence at Harvard Square](https://www.leadersexcellence.com)<br>
+3. *Mentor - at [ADPList](https://adplist.org/mentors/anand-safi)<br>
+4. *Executive Coach - Engineering Leadership* at [BestPracticer](https://www.bestpracticer.com)<br>
+5. *Mentor - Engineering Leadership* at [PlatoHQ](https://www.platohq.com/mentors/anand-safi-668121411)<br>
+6. *Mentor* at [Mentoring Club](https://www.mentoring-club.com/the-mentors/anand-safi)<br>
+7. *Advisor* at [Nestted](https://www.nestted.com/)<br>
+8. *Advisor* at [Stay22](https://www.stay22.com)<br>
+9. *Advisor* at [Sukhi](https://www.thesukhiproject.com)<br>
+10. *Board Member* at [Dansii](https://www.instagram.com/dansii.inc)<br>
+11. *Adisory Board Member* at [Waterlution](https://www.waterlution.org)<br>
+12. *Advisory Council Member* at [Harvard Business Review](https://www.hbr.org)<br>
+13. *Executive Member* at [Leaders Excellence at Harvard Square](https://www.leadersexcellence.com)<br>
 
 <hr />
 
@@ -91,6 +92,16 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 
 <ul>
   <li>
+    <i>HatchPad Insights - Career Development Paths in Tech</i> <br>
+    https://www.youtube.com/watch?v=Kr8TIeTd5Qw
+  </li>
+  
+  <li>
+    <i>Plato Elevate Fall 2021 - Building Inclusive Teams</i> <br>
+    https://www.youtube.com/watch?v=sP8UPjEv4ok
+  </li>
+  
+  <li>
     <i>DevToManager Publication</i> <br>
     https://devtomanager.com/interviews/anand-safi/
   </li>
@@ -116,6 +127,21 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 **Podcast Appearances** 🎙️ <br>
 
 <ul>
+  <li>
+    <i>Engineering&Leadership Podcast - How to become a Mentor</i> <br>
+    https://www.engineeringandleadership.com/episode38
+  </li>
+
+  <li>
+    <i>Software Crafts Podcast: "Most Valuable First"</i> <br>
+    https://softwarecraftspodcast.libsyn.com/interview-with-anand-safi
+  </li>
+
+  <li>
+    <i>NerdForTech - Hierarchy in Leadership</i> <br>
+    https://www.youtube.com/watch?v=Dm3T7loHyPc
+  </li>
+
   <li>
     <i>DevJourney - On "Career Shaping Moments"</i> <br>
     https://devjourney.info/Guests/154-AnandSafi.html
@@ -158,6 +184,21 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 **Articles** 📝 <br>
 
 <ul>
+  <li>
+    <i>DZone Publication - New EM Checklist</i> <br>
+    https://dzone.com/articles/two-key-focuses-and-a-checklist-for-new-engineerin
+  </li>
+
+  <li>
+    <i>Hatchpad - Software Development Career Paths</i> <br>
+    https://www.myhatchpad.com/insight/guide-to-software-development-career-paths/
+  </li>
+
+  <li>
+    <i>DevInterrupted article - IC to EM Transition</i> <br>
+    https://devinterrupted.com/going-from-an-individual-contributor-to-an-engineering-manager-is-not-a-promotion/
+  </li>
+
   <li>
     <i>AnandSafi's Medium Publication</i> <br>
     https://anandsafi.medium.com
