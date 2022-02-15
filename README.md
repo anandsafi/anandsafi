@@ -17,17 +17,15 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 
 1. *Engineering Manager* at [Mark43](https://www.mark43.com)<br>
 2. *Mentor - Top 1%* at [MentorCruise](https://mentorcruise.com/mentor/AnandSafi/)<br>
-3. *Mentor - at [ADPList](https://adplist.org/mentors/anand-safi)<br>
+3. *Mentor* - at [ADPList](https://adplist.org/mentors/anand-safi)<br>
 4. *Executive Coach - Engineering Leadership* at [BestPracticer](https://www.bestpracticer.com)<br>
 5. *Mentor - Engineering Leadership* at [PlatoHQ](https://www.platohq.com/mentors/anand-safi-668121411)<br>
 6. *Mentor* at [Mentoring Club](https://www.mentoring-club.com/the-mentors/anand-safi)<br>
 7. *Advisor* at [Nestted](https://www.nestted.com/)<br>
 8. *Advisor* at [Stay22](https://www.stay22.com)<br>
-9. *Advisor* at [Sukhi](https://www.thesukhiproject.com)<br>
-10. *Board Member* at [Dansii](https://www.instagram.com/dansii.inc)<br>
-11. *Adisory Board Member* at [Waterlution](https://www.waterlution.org)<br>
-12. *Advisory Council Member* at [Harvard Business Review](https://www.hbr.org)<br>
-13. *Executive Member* at [Leaders Excellence at Harvard Square](https://www.leadersexcellence.com)<br>
+9. *Advisory Council Member* at [Harvard Business Review](https://www.hbr.org)<br>
+10. *Mentor* at [Lidr] (https://lidr.co/) <br>
+11. *Executive Contributor* at [Brainz Managazine](https://www.brainzmagazine.com/executive-contributor/Anand-Safi)<br>
 
 <hr />
 
@@ -91,6 +89,11 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 **Published Interviews** 🎤 <br>
 
 <ul>
+   <li>
+    <i>Focusing on "Most Valuable First"</i> <br>
+    https://softwarecraftspodcast.libsyn.com/interview-with-anand-safi
+  </li>
+  
   <li>
     <i>HatchPad Insights - Career Development Paths in Tech</i> <br>
     https://www.youtube.com/watch?v=Kr8TIeTd5Qw
@@ -127,6 +130,31 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 **Podcast Appearances** 🎙️ <br>
 
 <ul>
+  <li>
+    <i>RetroTime Podcast - Level Up via Mentoring</i> <br>
+    https://www.retrotimepodcast.com/41-level-up-your-career-via-mentoring-with-anand-safi/
+  </li>
+
+  <li>
+    <i>Beyond Coding Podcast - Mentorship in Tech</i> <br>
+    https://youtu.be/bhVKVBhkOqw
+  </li>
+
+  <li>
+    <i>CoffeePower Podcast - Demystifying Engineering Culture</i> <br>
+   https://www.youtube.com/watch?v=apf_mKQTvX4
+  </li>
+
+  <li>
+    <i>The Mindful Dev - What to consider while becoming an Engineering Manager</i> <br>
+    https://youtu.be/Ilw7Yzcji84
+  </li>
+
+  <li>
+    <i>InfoQ - How to become a great Engineering Manager</i> <br>
+    https://www.infoq.com/podcasts/hard-becoming-great-engineering-manager
+  </li>
+
   <li>
     <i>Engineering&Leadership Podcast - How to become a Mentor</i> <br>
     https://www.engineeringandleadership.com/episode38
@@ -185,6 +213,26 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 
 <ul>
   <li>
+    <i>Brainz Magazine - Saying NO a superpower</i> <br>
+    https://www.brainzmagazine.com/post/saying-no-a-superpower
+  </li>
+
+  <li>
+    <i>Hatchpad - Engineering Comppensation Philosophy</i> <br>
+    https://www.myhatchpad.com/insight/you-dont-have-to-leave-your-startup-to-earn-more-money/
+  </li>
+
+  <li>
+    <i>DevInterrupted - IC to EM journey - the Hard Truth</i> <br>
+    https://devinterrupted.com/going-from-an-individual-contributor-to-an-engineering-manager-is-not-a-promotion/
+  </li>
+
+  <li>
+    <i>DevInterrupted - Tips & Tricks for new EMs</i> <br>
+    https://devinterrupted.com/two-key-focuses-and-a-checklist-for-new-engineering-managers/
+  </li>
+
+  <li>
     <i>DZone Publication - New EM Checklist</i> <br>
     https://dzone.com/articles/two-key-focuses-and-a-checklist-for-new-engineerin
   </li>
@@ -240,3 +288,7 @@ Over the past decade, I have progressed from starting as an aspiring engineer(SD
 14. *Social Media Specialist* at Propelify Conference<br>
 15. *Club President* at Temple University Indians Group<br>
 16. *Tech Mentor* at CodeMentor
+17. *Advisor* at [Sukhi](https://www.thesukhiproject.com)<br>
+18. *Board Member* at [Dansii](https://www.instagram.com/dansii.inc)<br>
+19. *Executive Member* at [Leaders Excellence at Harvard Square](https://www.leadersexcellence.com)<br>
+20. *Adisory Board Member* at [Waterlution](https://www.waterlution.org)<br>
